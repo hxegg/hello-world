@@ -1,2 +1,2 @@
 # hello-world
-test a hello world project
+I'm testing this hello-world project.
